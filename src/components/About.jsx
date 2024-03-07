@@ -14,8 +14,11 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          I am currently pursuing my Masters in Computer and Information Sciences from The University of Texas at Arlington.
-          I have an year of experience as a software developer in Model N. 
+        Hey there! I'm currently mastering Computer and Information Sciences at The University of Texas at Arlington. 
+        With a year's experience at Model N, I've crafted my skills in React and Spring Boot.
+         Passionate about coding, I'm on a quest to push boundaries and shape the future of tech!
+
+
         </p>
 
         <br />
