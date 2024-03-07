@@ -14,7 +14,8 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          
+          I am currently pursuing my Masters in Computer and Information Sciences from The University of Texas at Arlington.
+          I have an year of experience as a software developer in Model N. 
         </p>
 
         <br />
