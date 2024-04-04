@@ -11,6 +11,7 @@ import tailwind from "../assets/tailwind.png";
 import django from "../assets/django.png";
 import jenkins from "../assets/jenkinss.png";
 import springboot from "../assets/springboot.png";
+import netlify from "../assets/netlify.png";
 
 const Experience = () => {
   const techs = [
@@ -79,6 +80,12 @@ const Experience = () => {
         src: springboot,
         title: "Spring Boot",
         style: "shadow-green-400",
+    },
+    {
+        id: 10,
+        src: netlify,
+        title: "Netlify",
+        style: "shadow-cyan-400",
     },
   ];
 
